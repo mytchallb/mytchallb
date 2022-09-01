@@ -16,7 +16,7 @@ Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand.
 
 🔐 Currently working in a [Blockchain team](https://oddworx.com/)
 
-🕹 Love building 2d games, fast websites and reading articles on the latest tech
+🕹 Love building 2d games, webs apps and reading articles on the latest tech
 
 🏙 See my [contribution city!](https://honzaap.github.io/GithubCity/?name=mytchallb&year=2022)
 
@@ -44,3 +44,7 @@ Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand.
 * [How to set up a static site with Vite and zero Javascript](https://mytchall.dev/posts/2022/how-to-set-up-a-static-site-with-vite-and-zero-javascript/)
 
 * [Making games with NFT’s and Web3.js](https://mytchall.dev/posts/2021/making-games-with-nfts-and-web3.js/)
+
+* [Backup and restore with Postgres](https://mytchall.dev/posts/2022/backup-and-restore-with-postgres/)
+
+* [Create a fully static Next.js site with local images](https://mytchall.dev/posts/2022/create-a-fully-static-next-js-site-with-local-images/)
