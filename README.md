@@ -8,39 +8,57 @@
 
 ## @mytchallb
 
-</div>
 
-👨🏽‍💻 **About Me:**
 
-Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand.
+
+
+Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand. I love game dev, building web and mobile apps including for the blockchain, and keeping up to date on the latest tech. Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove-8352a3118/)!
 
 🔐 Currently working in a [Blockchain team](https://oddworx.com/)
+🏙 See my [contribution city](https://honzaap.github.io/GithubCity/?name=mytchallb&year=2022)
 
-🕹 Love building 2d games, webs apps and reading articles on the latest tech
-
-🏙 See my [contribution city!](https://honzaap.github.io/GithubCity/?name=mytchallb&year=2022)
+</div>
 
 ---
 
-🔨 **Languages and Tools:**
+### 🔨 Skills
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original-wordmark.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width=50>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" width=50 />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width=50 />
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original-wordmark.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width=50>
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" width=50 />
+<img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width=50 />
 <img align="" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" width=50 />
 
 ---
 
-📝 **Blog Posts:**
+### 🎮 Game dev
+
+**[Melon Mash - Fruity Fun](https://apps.mbmedia.co.nz/melon-mash/)**
+A tetris-inspired puzzle game built with GMS, availble on iOS, Android and HTML5
+
+**[Genzee Grab](https://arcade.oddworx.com/genzee-grab/)**
+An arcade machine game built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5
+
+[**Shyguy**](?)
+TBA
+
+[**Bombz Away**](?)
+TBA
+
+**[Wordle](https://github.com/mytchallb/wordle)**
+A simple JS version of the popular game built with Vite, available on HTML5
+
+---
+
+### 📝 Blog posts
 
 * [How to set up a static site with Vite and zero Javascript](https://mytchall.dev/posts/2022/how-to-set-up-a-static-site-with-vite-and-zero-javascript/)
 
@@ -49,3 +67,19 @@ Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand.
 * [Backup and restore with Postgres](https://mytchall.dev/posts/2022/backup-and-restore-with-postgres/)
 
 * [Create a fully static Next.js site with local images](https://mytchall.dev/posts/2022/create-a-fully-static-next-js-site-with-local-images/)
+
+---
+
+### 💾 Past projects
+
+**Oddworx**
+_Nov 2020 - Current | JS, GML, Solidity, Docker_
+Wrote an ERC20 and [Staking contract](https://etherscan.io/address/0x428b6a13277116C62D751bebbC6f47011A0Cdc11#code) in Solidity to interact with a NFT set with unit testing through Hardhat, and an accompanying dApp with Tailwind & Vite/Next.JS/Redwood.js. Part of the project included implementing Shopify’s Storefront API where users could spend their ERC20 token in return for physical products. Also HTML5 game-dev with GMS and Node.
+
+**Artikel & Swint**
+_Dec 2017 - Sep 2021 | JS, PHP, mySQL, SASS_
+For an advertising agency built over 30 websites with Wordpress, Shopify and other CMS's, managed a Linux VPS with Plesk along with DNS and email. [One project](https://nzpetfoods.co.nz/pages/freight) icluded a custom PHP-based shipping solution built in Shopify.
+
+**Ministry Maps**
+_Jan 2018 - Feb 2020 | PHP, mySQL, JS, GML, SASS_
+Built a PHP/JS based freemium [web app](https://ministrymaps.co.nz/) (without frameworks) and accompanying iOS and Android mobile apps to handle user-generated content like images and metadata. I added features including: Paypal IPN payments, user signup/authentication data sanitizing, an API and  role-based account sharing.
