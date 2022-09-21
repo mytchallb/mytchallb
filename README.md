@@ -21,8 +21,6 @@ Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand. I love 
 
 ---
 
-### 🔨 Skills
-
 <div id="logo" align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width=50>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" width=50>
@@ -43,20 +41,15 @@ Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand. I love 
 
 ### 🎮 Game dev
 
-**[Melon Mash - Fruity Fun](https://apps.mbmedia.co.nz/melon-mash/)**
-A tetris-inspired puzzle game built with GMS, availble on iOS, Android and HTML5
+**[Melon Mash - Fruity Fun](https://apps.mbmedia.co.nz/melon-mash/)** - A tetris-inspired puzzle game built with GMS, availble on iOS, Android and HTML5
 
-**[Genzee Grab](https://arcade.oddworx.com/genzee-grab/)**
-An arcade machine game built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5
+**[Genzee Grab](https://arcade.oddworx.com/genzee-grab/)** - An arcade machine game built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5
 
-[**Shyguy**](?)
-TBA
+[**Shyguy**](?) - TBA
 
-[**Bombz Away**](?)
-TBA
+[**Bombz Away**](?) - TBA
 
-**[Wordle](https://github.com/mytchallb/wordle)**
-A simple JS version of the popular game built with Vite, available on HTML5
+**[Wordle](https://github.com/mytchallb/wordle)** - A simple JS version of the popular game built with Vite, available on HTML5
 
 ---
 
@@ -74,14 +67,20 @@ A simple JS version of the popular game built with Vite, available on HTML5
 
 ### 💾 Past projects
 
-**Oddworx**
+##### Oddworx
+
 _Nov 2020 - Current | JS, GML, Solidity, Docker_
+
 Wrote an ERC20 and [Staking contract](https://etherscan.io/address/0x428b6a13277116C62D751bebbC6f47011A0Cdc11#code) in Solidity to interact with a NFT set with unit testing through Hardhat, and an accompanying dApp with Tailwind & Vite/Next.JS/Redwood.js. Part of the project included implementing Shopify’s Storefront API where users could spend their ERC20 token in return for physical products. Also HTML5 game-dev with GMS and Node.
 
-**Artikel & Swint**
+##### Artikel & Swint
+
 _Dec 2017 - Sep 2021 | JS, PHP, mySQL, SASS_
+
 For an advertising agency built over 30 websites with Wordpress, Shopify and other CMS's, managed a Linux VPS with Plesk along with DNS and email. [One project](https://nzpetfoods.co.nz/pages/freight) icluded a custom PHP-based shipping solution built in Shopify.
 
-**Ministry Maps**
+##### Ministry Maps
+
 _Jan 2018 - Feb 2020 | PHP, mySQL, JS, GML, SASS_
+
 Built a PHP/JS based freemium [web app](https://ministrymaps.co.nz/) (without frameworks) and accompanying iOS and Android mobile apps to handle user-generated content like images and metadata. I added features including: Paypal IPN payments, user signup/authentication data sanitizing, an API and  role-based account sharing.
