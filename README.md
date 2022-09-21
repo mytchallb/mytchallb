@@ -45,9 +45,12 @@ Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand. I love 
 
 **[Genzee Grab](https://arcade.oddworx.com/genzee-grab/)** - An arcade machine game built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5
 
-[**Shyguy**](?) - TBA
+[**Shyguy**](?)
 
-[**Bombz Away**](?) - TBA
+TBA
+
+[**Bombz Away**](?)
+TBA
 
 **[Wordle](https://github.com/mytchallb/wordle)** - A simple JS version of the popular game built with Vite, available on HTML5
 
@@ -68,9 +71,7 @@ Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand. I love 
 ### 💾 Past projects
 
 ##### Oddworx
-
 _Nov 2020 - Current | JS, GML, Solidity, Docker_
-
 Wrote an ERC20 and [Staking contract](https://etherscan.io/address/0x428b6a13277116C62D751bebbC6f47011A0Cdc11#code) in Solidity to interact with a NFT set with unit testing through Hardhat, and an accompanying dApp with Tailwind & Vite/Next.JS/Redwood.js. Part of the project included implementing Shopify’s Storefront API where users could spend their ERC20 token in return for physical products. Also HTML5 game-dev with GMS and Node.
 
 ##### Artikel & Swint
