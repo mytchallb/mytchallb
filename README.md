@@ -58,13 +58,15 @@ A simple JS version of the popular game built with Vite, available on HTML5
 
 ### 📝 Blog posts
 
-* [How to set up a static site with Vite and zero Javascript](https://mytchall.dev/posts/2022/how-to-set-up-a-static-site-with-vite-and-zero-javascript/)
+* [Optimising GameMaker Studio 2.3 for HTML5 web and mobile games](https://mytchall.dev/optimising-gamemaker-studio-2-3-for-html5-web-and-mobile-games/)
 
-* [Making games with NFT’s and Web3.js](https://mytchall.dev/posts/2021/making-games-with-nfts-and-web3.js/)
+* [How to set up a static site with Vite and zero Javascript](https://mytchall.dev/how-to-set-up-a-static-site-with-vite-and-zero-javascript/)
 
-* [Backup and restore with Postgres](https://mytchall.dev/posts/2022/backup-and-restore-with-postgres/)
+* [Making games with NFT’s and Web3.js](https://mytchall.dev/making-games-with-nfts-and-web3-js/)
 
-* [Create a fully static Next.js site with local images](https://mytchall.dev/posts/2022/create-a-fully-static-next-js-site-with-local-images/)
+* [Backup and restore with Postgres](https://mytchall.dev/backup-and-restore-with-postgres/)
+
+* [Create a fully static Next.js site with local images](https://mytchall.dev/create-a-fully-static-next-js-site-with-local-images/)
 
 ---
 
