@@ -42,7 +42,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove-83
 **[Melon Mash - Fruity Fun](https://apps.mbmedia.co.nz/melon-mash/)**  
 A tetris-inspired puzzle game built with GMS, availble on iOS, Android and HTML5
 
-**[Chunkie Run](https://arcade.oddworx.com/chunkie-run/)**
+**[Chunkie Run](https://arcade.oddworx.com/chunkie-run/)**  
 An endless runner built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5 and installable as a PWA with offline score support
 
 **[Genzee Grab](https://arcade.oddworx.com/genzee-grab/)**  
