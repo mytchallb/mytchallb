@@ -61,6 +61,8 @@ A simple JS version of the popular game built with Vite, available on HTML5
 
 ### 📝 Blog posts
 
+* [🎛️ Setting up a Next JS app on Plesk control panel with git auto-deploy](https://mytchall.dev/setting-up-a-next-js-app-on-plesk-control-panel-with-git-auto-deploy/)
+
 * [Optimising GameMaker Studio 2.3 for HTML5 web and mobile games](https://mytchall.dev/optimising-gamemaker-studio-2-3-for-html5-web-and-mobile-games/)
 
 * [How to set up a static site with Vite and zero Javascript](https://mytchall.dev/how-to-set-up-a-static-site-with-vite-and-zero-javascript/)
