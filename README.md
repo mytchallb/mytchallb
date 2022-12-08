@@ -63,15 +63,15 @@ A simple JS version of the popular game built with Vite, available on HTML5
 
 * [🎛️ Setting up a Next JS app on Plesk control panel with git auto-deploy](https://mytchall.dev/setting-up-a-next-js-app-on-plesk-control-panel-with-git-auto-deploy/)
 
-* [Optimising GameMaker Studio 2.3 for HTML5 web and mobile games](https://mytchall.dev/optimising-gamemaker-studio-2-3-for-html5-web-and-mobile-games/)
+* [🔧 Optimising GameMaker Studio 2.3 for HTML5 web and mobile games](https://mytchall.dev/optimising-gamemaker-studio-2-3-for-html5-web-and-mobile-games/)
 
-* [How to set up a static site with Vite and zero Javascript](https://mytchall.dev/how-to-set-up-a-static-site-with-vite-and-zero-javascript/)
+* [⚡️ How to set up a static site with Vite and zero Javascript](https://mytchall.dev/how-to-set-up-a-static-site-with-vite-and-zero-javascript/)
 
-* [Making games with NFT’s and Web3.js](https://mytchall.dev/making-games-with-nfts-and-web3-js/)
+* [🎮 Making games with NFT’s and Web3.js](https://mytchall.dev/making-games-with-nfts-and-web3-js/)
 
-* [Backup and restore with Postgres](https://mytchall.dev/backup-and-restore-with-postgres/)
+* [💿 Backup and restore with Postgres](https://mytchall.dev/backup-and-restore-with-postgres/)
 
-* [Create a fully static Next.js site with local images](https://mytchall.dev/create-a-fully-static-next-js-site-with-local-images/)
+* [📁 Create a fully static Next.js site with local images](https://mytchall.dev/create-a-fully-static-next-js-site-with-local-images/)
 
 ---
 
