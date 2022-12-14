@@ -11,8 +11,7 @@
 Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand.  
 I'm passionate about game dev, building web and mobile apps, and keeping up to date with the latest tech.  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove-8352a3118/)!
-
-🔐 Currently working in a [Blockchain team](https://oddworx.com/)  
+ 
 🏙 See my [contribution city](https://honzaap.github.io/GithubCity/?name=mytchallb&year=2022)
 
 </div>
@@ -78,8 +77,9 @@ A simple JS version of the popular game built with Vite, available on HTML5
 ### 💾 Past projects
 
 **Oddworx**  
-_Nov 2020 - Current | JS, GML, Solidity, Docker_  
-Wrote an ERC20 and [Staking contract](https://etherscan.io/address/0x428b6a13277116C62D751bebbC6f47011A0Cdc11#code) in Solidity to interact with a NFT set with unit testing through Hardhat, and an accompanying dApp with Tailwind & Vite/Next.JS/Redwood.js. Part of the project included implementing Shopify’s Storefront API where users could spend their ERC20 token in return for physical products. Also HTML5 game-dev with GMS and Node.
+_Nov 2021 - Nov 2022 | JS, GML, Solidity, Docker_  
+Wrote an ERC20 and [Staking contract](https://etherscan.io/address/0x428b6a13277116C62D751bebbC6f47011A0Cdc11#code) in Solidity to interact with a NFT set with unit testing through Hardhat, and an accompanying dApp with Tailwind & Vite/Next.JS/Redwood.js. Part of the project included implementing Shopify’s Storefront API where users could spend their ERC20 token in return for physical products. 
+Created two HTML5 games with Game Maker Studio and associated API's in Node.
 
 **Artikel & Swint**  
 _Dec 2017 - Sep 2021 | JS, PHP, mySQL, SASS_  
