@@ -36,25 +36,20 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove-83
 
 ---
 
-### 🎮 Game dev
+### 💾 Projects
 
-**[Melon Mash - Fruity Fun](https://apps.mbmedia.co.nz/melon-mash/)**  
-A tetris-inspired puzzle game built with GMS, availble on iOS, Android and HTML5
+**Oddworx**  
+_Nov 2021 - Nov 2022 | JS, TS, Node, GML, Solidity, Docker_  
+Wrote an ERC20 and [Staking contract](https://etherscan.io/address/0x428b6a13277116C62D751bebbC6f47011A0Cdc11#code) in Solidity to interact with a NFT set with unit testing through Hardhat, helped build an accompanying [dApp](https://app.oddworx.com/) with Tailwind, Vite and Next.JS/Redwood.js. Part of the project included implementing Shopify’s Storefront API where users could spend their ERC20 token in return for physical products. 
+Created [two HTML5 games](https://app.oddworx.com/arcade) with Game Maker Studio and associated API's in Node.
 
-**[Chunkie Run](https://arcade.oddworx.com/chunkie-run/)**  
-An endless runner built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5 and installable as a PWA with offline score support
+**Artikel & Swint**  
+_Dec 2017 - Sep 2021 | JS, PHP, mySQL, SASS_  
+For an advertising agency built over 30 websites with Wordpress, Shopify and other CMS's, managed a Linux VPS with Plesk along with DNS and email. [One project](https://nzpetfoods.co.nz/pages/freight) included a custom PHP-based shipping solution built in Shopify.
 
-**[Genzee Grab](https://arcade.oddworx.com/genzee-grab/)**  
-An arcade machine game built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5
-
-[**Shyguy**](?)  
-TBA
-
-[**Bombz Away**](?)  
-TBA
-
-**[Wordle](https://github.com/mytchallb/wordle)**  
-A simple JS version of the popular game built with Vite, available on HTML5
+**Ministry Maps**  
+_Jan 2018 - Feb 2020 | PHP, mySQL, JS, GML, SASS_  
+Built a PHP/JS based freemium [web app](https://ministrymaps.co.nz/) (without frameworks) and accompanying iOS and Android mobile apps to handle user-generated content like images and metadata. I added features including: Paypal IPN payments, user signup/authentication data sanitizing, an API and  role-based account sharing through raw SQL queries.
 
 ---
 
@@ -74,17 +69,22 @@ A simple JS version of the popular game built with Vite, available on HTML5
 
 ---
 
-### 💾 Projects
+### 🎮 Game dev
 
-**Oddworx**  
-_Nov 2021 - Nov 2022 | JS, GML, Solidity, Docker_  
-Wrote an ERC20 and [Staking contract](https://etherscan.io/address/0x428b6a13277116C62D751bebbC6f47011A0Cdc11#code) in Solidity to interact with a NFT set with unit testing through Hardhat, helped build an accompanying [dApp](https://app.oddworx.com/) with Tailwind, Vite and Next.JS/Redwood.js. Part of the project included implementing Shopify’s Storefront API where users could spend their ERC20 token in return for physical products. 
-Created [two HTML5 games](https://app.oddworx.com/arcade) with Game Maker Studio and associated API's in Node.
+**[Melon Mash - Fruity Fun](https://apps.mbmedia.co.nz/melon-mash/)**  
+A tetris-inspired puzzle game built with GMS, availble on iOS, Android and HTML5
 
-**Artikel & Swint**  
-_Dec 2017 - Sep 2021 | JS, PHP, mySQL, SASS_  
-For an advertising agency built over 30 websites with Wordpress, Shopify and other CMS's, managed a Linux VPS with Plesk along with DNS and email. [One project](https://nzpetfoods.co.nz/pages/freight) included a custom PHP-based shipping solution built in Shopify.
+**[Chunkie Run](https://arcade.oddworx.com/chunkie-run/)**  
+An endless runner built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5 and installable as a PWA with offline score support
 
-**Ministry Maps**  
-_Jan 2018 - Feb 2020 | PHP, mySQL, JS, GML, SASS_  
-Built a PHP/JS based freemium [web app](https://ministrymaps.co.nz/) (without frameworks) and accompanying iOS and Android mobile apps to handle user-generated content like images and metadata. I added features including: Paypal IPN payments, user signup/authentication data sanitizing, an API and  role-based account sharing through raw SQL queries.
+**[Genzee Grab](https://arcade.oddworx.com/genzee-grab/)**  
+An arcade machine game built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5
+
+[**Shyguy**](?)  
+TBA
+
+[**Bombz Away**](?)  
+TBA
+
+**[Wordle](https://github.com/mytchallb/wordle)**  
+A simple JS version of the popular game built with Vite, available on HTML5
