@@ -72,7 +72,7 @@ Built a PHP/JS based freemium [web app](https://ministrymaps.co.nz/) (without fr
 ### 🎮 Game dev
 
 **[Melon Mash - Fruity Fun](https://apps.mbmedia.co.nz/melon-mash/)**  
-A tetris-inspired puzzle game built with GMS, availble on iOS, Android and HTML5
+A tetris-inspired puzzle game built with GMS, available on iOS, Android and HTML5
 
 **[Chunkie Run](https://arcade.oddworx.com/chunkie-run/)**  
 An endless runner built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5 and installable as a PWA with offline score support
