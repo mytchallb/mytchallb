@@ -9,7 +9,7 @@
 ## @mytchallb
 
 Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand.  
-I'm passionate about game dev, building web and mobile apps, blockchain, and keeping up to date with the latest tech.  
+I'm passionate about building web and mobile apps, game dev, blockchain, and keeping up to date with the latest tech.  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove-8352a3118/), or [Twitter](https://twitter.com/home)!
  
 🏙 See my [contribution city](https://honzaap.github.io/GithubCity/?name=mytchallb&year=2022)
