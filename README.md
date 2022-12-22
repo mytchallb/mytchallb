@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=790b7611a866f892dd360d0fd3acf4dc3aae16739f38fb71&rid=giphy.gif&ct=g" width="100"/>
   <div id="badges">
 
-  [<img alt="LinkedIn Logo" width="120px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mytchall-bransgrove-8352a3118/)
+  [<img alt="LinkedIn Logo" width="120px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mytchall-bransgrove/)
 
   </div>
 
@@ -10,7 +10,7 @@
 
 Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand.  
 I'm passionate about building web and mobile apps, game dev, blockchain, and keeping up to date with the latest tech.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove-8352a3118/), or [Twitter](https://twitter.com/home)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove/), or [Twitter](https://twitter.com/home)!
  
 🏙 See my [contribution city](https://honzaap.github.io/GithubCity/?name=mytchallb&year=2022)
 
