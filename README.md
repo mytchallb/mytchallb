@@ -38,8 +38,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove/),
 
 ### 💾 Projects
 
-**MB Media** 
-_Jan 2015 - Current_
+**MB Media**  
+_Jan 2015 - Current_  
 My self-employed contracting work. Currently working on a Polygon blockchain gaming dApp [Knights' Kingdom](http://knightskingdom.io/) built with Next.js and Postgres.
 
 **Oddworx**  
