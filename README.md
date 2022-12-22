@@ -38,6 +38,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove/),
 
 ### 💾 Projects
 
+**MB Media** 
+_Jan 2015 - Current_
+My self-employed contracting work. Currently working on a Polygon blockchain gaming dApp [Knights' Kingdom](http://knightskingdom.io/) built with Next.js and Postgres.
+
 **Oddworx**  
 _Nov 2021 - Nov 2022 | JS, TS, Node, GML, Solidity, Docker_  
 Wrote an ERC20 and [Staking contract](https://etherscan.io/address/0x428b6a13277116C62D751bebbC6f47011A0Cdc11#code) in Solidity to interact with a NFT set with unit testing through Hardhat, helped build an accompanying [dApp](https://app.oddworx.com/) with Tailwind, Vite and Next.JS/Redwood.js. Part of the project included implementing Shopify’s Storefront API where users could spend their ERC20 token in return for physical products. 
