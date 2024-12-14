@@ -62,7 +62,7 @@ A useful WordPress plugin to show/hide unnecessary menus. In the settings page d
 
 **hairyLemon**  
 _May 2023 - Current | PHP, Laravel, Vue, Docker_  
-I've developed several custom Laravel apps with Vue as the front-end, built a React Native app for iOS and Android and written themes for a variety of client websites on CMS platforms like Statamic, Shopify and WordPress.
+I've developed several custom Laravel apps with Vue/Tailwind on the front-end, built a React Native app for iOS and Android and written themes for a variety of client websites on CMS platforms like Statamic, Shopify and WordPress.
 
 **Oddworx**  
 _Nov 2021 - Nov 2022 | JS, TS, Node, GML, Solidity, Docker_  
