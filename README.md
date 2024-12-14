@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=790b7611a866f892dd360d0fd3acf4dc3aae16739f38fb71&rid=giphy.gif&ct=g" width="100"/>
+  <img src="./code.png" width="100"/>
   <div id="badges">
 
   [<img alt="LinkedIn Logo" width="120px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mytchall-bransgrove/)
