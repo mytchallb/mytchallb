@@ -9,20 +9,24 @@
 ## @mytchallb
 
 Hi I'm Mytch, a full-stack developer based in Christchurch, New Zealand.  
+
 I'm passionate about building web and mobile apps, game dev, blockchain, and keeping up to date with the latest tech.  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove/), [Twitter](https://twitter.com/mytchallb), or visit my [Blog](https://mytchall.dev/)!
  
-🏙 See my [contribution city](https://honzaap.github.io/GithubCity/?name=mytchallb&year=2022)
+🏙 See my [contribution city](https://honzaap.github.io/GithubCity/?name=mytchallb&year=2024)
 
 </div>
 
 ---
 
 <div id="logo" align="center">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original-wordmark.svg" width=80>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original-wordmark.svg" width=50>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width=50>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" width=50>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" width=50>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width=50>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original-wordmark.svg" width=80>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" width=50>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original-wordmark.svg" width=50>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width=50>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" width=50>
@@ -36,11 +40,29 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mytchall-bransgrove/),
 
 ---
 
-### 💾 Projects
+### 📝 My Blog
 
-**MB Media**  
-_Jan 2015 - Current_  
-My self-employed contracting work. Currently working on a Polygon blockchain gaming dApp [Knights' Kingdom](http://knightskingdom.io/) built with Next.js and Postgres.
+* [⚡️ Speed up development with terminal shortcuts](https://mytchall.dev/speed-up-development-with-terminal-shortcuts/)
+* [🎛️ How to use .env files with WordPress for easy deployments](https://mytchall.dev/how-to-use-env-files-with-wordpress-for-easy-deployments/)
+* [💯 Using decimals and percentages in Solidity](https://mytchall.dev/using-decimals-and-percentages-in-solidity/)
+* [Ⓢ Upgrade your Statamic project from Webpack to Vite with Tailwind](https://mytchall.dev/upgrade-your-statamic-project-from-webpack-to-vite-with-tailwind/)
+* [🔧 Optimising GameMaker Studio 2.3 for HTML5 web and mobile games](https://mytchall.dev/optimising-gamemaker-studio-2-3-for-html5-web-and-mobile-games/)
+* [🎮 Converting a GameMaker Studio HTML5 game into a Progressive Web App (PWA)](https://mytchall.dev/converting-a-gamemaker-studio-html5-game-into-a-progressive-web-app-pwa/)
+
+---
+
+### 📝 Tools I've Built
+
+**[WP - Simplify Dashboard](https://mytchall.dev/projects/wordpress-simplify-dashboard/)**
+A useful WordPress plugin to show/hide unnecessary menus. In the settings page define what you want to hide by menu name or element ID. A toggle is created to easily switch between modes.
+
+---
+
+### 💾 Work
+
+**hairyLemon**  
+_May 2023 - Current | PHP, Laravel, Vue, Docker_  
+I've developed several custom Laravel apps with Vue as the front-end, built a React Native app for iOS and Android and written themes for a variety of client websites on CMS platforms like Statamic, Shopify and WordPress.
 
 **Oddworx**  
 _Nov 2021 - Nov 2022 | JS, TS, Node, GML, Solidity, Docker_  
@@ -57,26 +79,13 @@ Built a PHP/JS based freemium [web app](https://ministrymaps.co.nz/) (without fr
 
 ---
 
-### 📝 Blog posts
-
-* [🎛️ Setting up a Next JS app on Plesk control panel with git auto-deploy](https://mytchall.dev/setting-up-a-next-js-app-on-plesk-control-panel-with-git-auto-deploy/)
-
-* [🔧 Optimising GameMaker Studio 2.3 for HTML5 web and mobile games](https://mytchall.dev/optimising-gamemaker-studio-2-3-for-html5-web-and-mobile-games/)
-
-* [⚡️ How to set up a static site with Vite and zero Javascript](https://mytchall.dev/how-to-set-up-a-static-site-with-vite-and-zero-javascript/)
-
-* [🎮 Making games with NFT’s and Web3.js](https://mytchall.dev/making-games-with-nfts-and-web3-js/)
-
-* [💿 Backup and restore with Postgres](https://mytchall.dev/backup-and-restore-with-postgres/)
-
-* [📁 Create a fully static Next.js site with local images](https://mytchall.dev/create-a-fully-static-next-js-site-with-local-images/)
-
----
-
 ### 🎮 Game dev
 
 **[Melon Mash - Fruity Fun](https://apps.mbmedia.co.nz/melon-mash/)**  
 A tetris-inspired puzzle game built with GMS, available on iOS, Android and HTML5
+
+**[Wordle](https://github.com/mytchallb/wordle)**  
+A simple JS version of the popular game built with Vite, available on HTML5
 
 **[Chunkie Run](https://arcade.oddworx.com/chunkie-run/)**  
 An endless runner built with GMS & a Node API requiring a web3 signed message for user authentication, available on HTML5 and installable as a PWA with offline score support
@@ -90,5 +99,9 @@ TBA
 [**Bombz Away**](?)  
 TBA
 
-**[Wordle](https://github.com/mytchallb/wordle)**  
-A simple JS version of the popular game built with Vite, available on HTML5
+---
+
+### Freelance Work
+
+**[MediaHost.nz](https://mediahost.nz)**  
+My self-employed contracting work. Currently working on a simple CMS.
